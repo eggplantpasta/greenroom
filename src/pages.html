@@ -1,7 +1,6 @@
 ---
 layout: layout.html
 ---
-{% for page in collections.pages %}
-    <h2>{{ page.data.title }}</h2>
-    <p>{{ page.content }}</p>
+{% for page in collections.page %}
+    <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
 {% endfor %}
