@@ -3,8 +3,11 @@
     src: url("../fonts/American Typewriter Regular.woff2");
 }
 
-h1 {
+nav h1 {
     font-family: "American Typewriter Regular", sans-serif;
+    color: var(--pico-primary-background);
+    font-size: 3rem;
+    font-weight: normal;
 }
 
 .copyright {
