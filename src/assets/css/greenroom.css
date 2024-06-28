@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "American Typewriter Regular";
+    src: url("/assets/fonts/American Typewriter Regular.woff2");
+}
+
+h1 {
+    font-family: "American Typewriter Regular";
+}
+
 .copyright {
     font-size: small;
 }
