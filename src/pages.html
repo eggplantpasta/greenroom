@@ -1,0 +1,7 @@
+---
+layout: layout.html
+---
+{% for page in collections.pages %}
+    <h2>{{ page.data.title }}</h2>
+    <p>{{ page.content }}</p>
+{% endfor %}
