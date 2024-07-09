@@ -1,24 +1,44 @@
+/* typography */
+
 @font-face {
     font-family: "American Typewriter Regular";
     src: url("../fonts/American Typewriter Regular.woff2");
 }
 
-header {
-    position: sticky;
-    top: 0;
-}
-
-nav h1 {
+header h1 {
     font-family: "American Typewriter Regular", sans-serif;
     color: var(--pico-primary-background);
     font-size: 3rem;
     font-weight: normal;
 }
 
-h1, h2 {
+h1,
+h2 {
     color: var(--pico-primary-background);
 }
 
 .copyright {
     font-size: small;
+}
+
+nav a {
+    font-weight: bold;
+}
+
+/* responsive menu */
+
+header {
+    background: var(--pico-background-color);
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav-button {
+    display: none;
+}
+
+label {
+    display: none;
 }
