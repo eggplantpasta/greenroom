@@ -5,12 +5,17 @@
     src: url("../fonts/American Typewriter Regular.woff2");
 }
 
-header h1 {
+/* responsive logo */
+.logo {
     font-family: "American Typewriter Regular", sans-serif;
     color: var(--pico-primary-background);
     font-size: 3rem;
-    font-weight: normal;
 }
+@media (max-width: 768px) {
+    .logo {
+        font-size: 2rem;
+    }
+  }
 
 h1,
 h2 {
@@ -29,6 +34,7 @@ nav a {
 
 header {
     background: var(--pico-background-color);
+    z-index: 1000;
     position: sticky;
     top: 0;
     display: flex;
