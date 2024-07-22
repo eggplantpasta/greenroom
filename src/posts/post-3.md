@@ -76,13 +76,13 @@ I've since read the awesome book _[This Old Boat](https://www.amazon.com.au/This
 
 - [ ] Find baby stay
 - [ ] Remove all power components 
-- [ ] Lock cabin
+- [X] Lock cabin
 - [ ] Scrape cabin roof
 - [ ] Repaint cabin
-- [ ] Repaint cabin sole
+- [x] Repaint cabin sole
 - [ ] Repaint locker covers
 - [ ] Make galley covers (Ikea chopping boards)
-- [ ] Attach baby stay
+- [x] Attach baby stay
 - [ ] Buy combination lock for cabin
 - [ ] But scuppers and fit
 

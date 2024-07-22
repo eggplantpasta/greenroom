@@ -5,17 +5,12 @@
     src: url("../fonts/American Typewriter Regular.woff2");
 }
 
-/* responsive logo */
 .logo {
     font-family: "American Typewriter Regular", sans-serif;
     color: var(--pico-primary-background);
     font-size: 3rem;
+    transition: all 0.3s;
 }
-@media (max-width: 768px) {
-    .logo {
-        font-size: 2rem;
-    }
-  }
 
 h1,
 h2 {
@@ -47,4 +42,42 @@ header {
 
 label {
     display: none;
+}
+
+@media (max-width: 768px) {
+    .logo {
+        font-size: 2rem;
+        transition: all 0.3s;
+    }
+    #nav-button {
+      display: block;
+      order: 1;
+      margin-right: 20px;
+    }
+    
+      nav ul {
+        position: fixed;
+        top: 80px;
+        right: -100%;
+        background-color: green;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: all 0.3s;
+      }
+    
+      nav ul li {
+        margin: 20px 0;
+      }
+    
+      nav ul li a {
+        font-size: 20px;
+      }
+    
+      #nav-button:checked ~ ul {
+        right: 0;
+      }
 }
