@@ -9,6 +9,7 @@
     font-family: "American Typewriter Regular", sans-serif;
     color: var(--pico-primary-background);
     font-size: 3rem;
+    text-decoration: none;
     transition: all 0.3s;
 }
 
