@@ -57,11 +57,13 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] Replace rub rail
 - [ ] mount rope tidy buttons
 - [ ] new fixed radio
-- [ ] mount phone / ipad in cockpit
+- [x] mount phone / ipad in cockpit
+- [ ] Huntingford Helm Impeder
+- [ ] waterproof anderson plug in cockpit
 
 ### Less urgent (2)
 
-- [ ] get Andrew to help rationalise old sails and dispose of unusable ones after salvaging hardware
+- [x] get Andrew to help rationalise old sails and dispose of unusable ones after salvaging hardware
 - [ ] make anchor light rechargeable
 - [ ] cockpit lights
 - [ ] cabin lights
@@ -74,6 +76,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] remove / replace compass
 - [ ] cabin step
 - [ ] new battery monitor
+- [ ] waterproof cockpit locker
 
 ### Someday (3)
 
@@ -85,6 +88,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] gas lift struts for pop top
 - [ ] new pop top supports
 - [ ] Remove front bulkhead (?)
+- [ ] remove front shelves
 - [ ] cockpit shower and privacy
 - [ ] cabin iPad (tv) and speaker mount
 
