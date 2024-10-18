@@ -8,7 +8,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 
 - [ ] remove and fiberglass through hulls
 - [ ] install scuppers for cockpit drains
-- [ ] put fuse inline with motor extension lead
+- [x] put fuse inline with motor extension lead
 - [ ] new halyards and spares
 - [ ] sort out 8mm reefing arrangement
 - [ ] new life jackets
@@ -20,9 +20,10 @@ Turning the list from the last post into a plan. First divide into the categorie
 ### Immediate (1)
 
 - [ ] seal holes in deck with epoxy
-- [ ] measure, buy, and fit new main and jib sheets (12mm dia.)
-- [ ] make single strand jib sheet with special shackle
-- [ ] put poly pipe around baby and side stays
+- [x] measure, buy, and fit new main and jib sheets (12mm dia.)
+- [x] make single strand jib sheet with special shackle
+- [x] put poly pipe around baby stays
+- [ ] put poly pipe around side stays
 - [ ] remove old mast and boom fittings
 - [ ] remove and fair and paint rudder
 
@@ -43,7 +44,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] fix / replace hatch hinge
 - [ ] rust proof, epoxy, and fair keel
 - [ ] glue-glass windows
-- [ ] Re-do cabin drop boards
+- [ ] Re-do cabin drop boards (double as cockpit table)
 - [ ] sort out main foot tension arrangement
 
 
@@ -80,7 +81,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 
 ### Someday (3)
 
-- [ ] get andrew to make new #3 jib
+- [x] get andrew to make new #3 jib
 - [ ] make stainless steel arch for stern
 - [ ] sliding porta potti
 - [ ] new sail hatch management
