@@ -36,8 +36,8 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] replace standing rigging
 - [ ] move main halyard clutch to mast and mount rope toggle for slack
 - [ ] sort out new 5hp equivalent motor
-- [ ] install 24v batteries and system
-- [ ] new 12v system and DC - DC converter
+- ~~[ ] install 24v batteries and system~~
+- [x] new 12v system ~~and DC - DC converter~~
 
 ### Someday (3)
 
@@ -76,7 +76,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] engine mount in cabin
 - [ ] remove / replace compass
 - [ ] cabin step
-- [ ] new battery monitor
+- [x] new battery monitor
 - [ ] waterproof cockpit locker
 
 ### Someday (3)
@@ -107,7 +107,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] print new name, rego, logo, and club id
 - [ ] paint deck
 - [ ] Get tiller cover made
-- [ ] sand and oil tiller
+- [x] sand and oil tiller
 - [ ] v berth mattress
 - [ ] paint cabin
 
