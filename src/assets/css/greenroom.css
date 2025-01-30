@@ -32,3 +32,15 @@ hgroup > *:not(:first-child):last-child {
 nav a {
     font-weight: bold;
 }
+
+/* layout */
+
+body {
+    background-image: url(/greenroom/assets/images/simple-gr22-cyan.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top 25% right 50%;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.9);
+    background-blend-mode: lighten;
+}
