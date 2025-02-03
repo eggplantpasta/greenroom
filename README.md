@@ -1,7 +1,7 @@
 # Greenroom
 [Website](https://eggplantpasta.github.io/greenroom/) for Space Sailer 22 Greenroom.
 
-![QR Code Greenroom Pages](src/assets/css/greenroom.css?raw=true "Greenroom Pages")
+![QR Code Greenroom Pages](src/assets/images/qr_greenroom_pages.png?raw=true "Greenroom Pages")
 
 # Development
 
