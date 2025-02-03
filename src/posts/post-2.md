@@ -4,7 +4,7 @@ description: Design of a new 12v electrical system with upgraded components and 
 tags: 
 ---
 
-I'm currently redoing my electrical system after my initial design failed due to sum parts not up to spec. This time I'm going to over-engineer things and build for future expansion.
+I'm currently redoing my electrical system after my initial design failed due to some parts not up to spec. This time I'm going to over-engineer things and build for future expansion.
 
 ## Existing components
 
