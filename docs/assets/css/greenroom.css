@@ -33,6 +33,18 @@ nav a {
     font-weight: bold;
 }
 
+/* colours */
+
+/* define select colours as rgba values for adding alpha */
+[data-theme=light],
+:root:not([data-theme=dark]) {
+  --pico-background-color-rgb: 255, 255, 255;
+}
+
+[data-theme=dark] {
+    --pico-background-color-rgb: 19, 23, 31;
+}
+
 /* layout */
 
 body {
@@ -41,6 +53,10 @@ body {
     background-repeat: no-repeat;
     background-position: top 25% right 50%;
     background-attachment: fixed;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(var(--pico-background-color-rgb), 0.9);
     background-blend-mode: lighten;
+}
+
+footer {
+    background: linear-gradient(to bottom, transparent, var(--pico-background-color));
 }
