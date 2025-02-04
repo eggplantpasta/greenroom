@@ -64,7 +64,7 @@ body {
     background-position: top 25% right 50%;
     background-attachment: fixed;
     background-color: var(--pico-background-color-rgba);
-    background-blend-mode: lighten;
+    background-blend-mode: overlay;
 }
 
 footer {
