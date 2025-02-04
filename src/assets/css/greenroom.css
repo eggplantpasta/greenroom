@@ -7,14 +7,14 @@
 
 .logo {
     font-family: "American Typewriter Regular", sans-serif;
-    color: var(--pico-primary-background);
+    color: var(--pico-primary);
     font-size: 3rem;
     text-decoration: none;
     transition: all 0.3s;
 }
 
 h1, h2 {
-    color: var(--pico-primary-background);
+    color: var(--pico-primary);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -36,16 +36,26 @@ nav a {
 /* colours */
 
 /* define select colours as rgba values for adding alpha */
-[data-theme=light],
+/* [data-theme=light],
 :root:not([data-theme=dark]) {
-  --pico-background-color-rgb: 255, 255, 255;
+    --pico-background-color-rgb: 255, 255, 255;
 }
 
 [data-theme=dark] {
     --pico-background-color-rgb: 19, 23, 31;
-}
+} */
 
 /* layout */
+
+:root {
+    --pico-background-color-rgba: rgba(255, 255, 255, 0.9); /* Light mode background color with alpha */
+}
+
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+        --pico-background-color-rgba: rgba(19, 23, 31, 0.9); /* Dark mode background color with alpha */
+    }
+}
 
 body {
     background-image: url(/greenroom/assets/images/simple-gr22-cyan.png);
@@ -53,10 +63,10 @@ body {
     background-repeat: no-repeat;
     background-position: top 25% right 50%;
     background-attachment: fixed;
-    background-color: rgba(var(--pico-background-color-rgb), 0.9);
+    background-color: var(--pico-background-color-rgba);
     background-blend-mode: lighten;
 }
 
 footer {
-    background: linear-gradient(to bottom, transparent, var(--pico-background-color));
+    background: linear-gradient(to bottom, transparent, var(--pico-background-color-rgba));
 }
