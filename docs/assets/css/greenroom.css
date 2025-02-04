@@ -53,7 +53,7 @@ nav a {
 
 @media (prefers-color-scheme: dark) {
     :root:not([data-theme]) {
-        --pico-background-color-rgba: rgba(19, 23, 31, 0.9); /* Dark mode background color with alpha */
+        --pico-background-color-rgba: rgba(19, 23, 31, 0.1); /* Dark mode background color with alpha */
     }
 }
 
