@@ -11,12 +11,12 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <title>greenroom: {{ title }}</title>
+    <title>greenroom{%- if title -%}: {{ title }}{%- endif -%}</title>
 </head>
 
 <body>
     <header>
-        <a href="/" class="logo">greenroom</a>
+        <a href="/" class="logo"><img src="/apple-touch-icon.png" alt="logo">greenroom</a>
         <nav>
             <ul>
                 <li><a data-tooltip="Home port" data-placement="bottom" href="/">Home</a></li>
@@ -26,10 +26,12 @@
         </nav>
     </header>
     <main>
+        {%- if title -%}
         <hgroup>
             <h1>{{ title }}</h1>
             <p>{{ description }}</p>
         </hgroup>
+        {%- endif -%}
         {{ content }}
     </main>
     <footer>
