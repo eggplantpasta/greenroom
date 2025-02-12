@@ -4,15 +4,23 @@
     font-family: "American Typewriter Regular";
     src: url("../fonts/American Typewriter Regular.woff2");
 }
-
 .logo {
-    font-family: "American Typewriter Regular", sans-serif;
     color: var(--pico-primary);
-    font-size: 3rem;
     text-decoration: none;
-    transition: all 0.3s;
+    font-family: "American Typewriter Regular", sans-serif;
+    font-size: 3rem;
+
+    display: flex;
 }
 
+.logo:before {
+    content: "";
+    flex: 0 0 8%;
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+    background-image: url("../images/simple-gr22-cyan.png");
+    background-position: left center;
+}
 h1, h2 {
     color: var(--pico-primary);
 }
