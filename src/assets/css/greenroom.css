@@ -15,12 +15,19 @@
 
 .logo:before {
     content: "";
-    flex: 0 0 8%;
+    flex: 0 0 10%;
     background-repeat: no-repeat;
     background-size: auto 80%;
     background-image: url("../images/simple-gr22-cyan.png");
     background-position: left center;
 }
+
+@media screen and (max-width: 768px) {
+    .logo:before {
+        flex: 0 0 20%;
+    }
+  }
+
 h1, h2 {
     color: var(--pico-primary);
 }
