@@ -8,11 +8,10 @@ ToDo list of tasks to prepare for the 2025 D'Arcy race.
 
 ### Electrical
 
-- [ ] mount fixed radio
+- [x] mount fixed radio
 - [ ] cockpit light
 - [ ] cabin light
-- [ ] mount fixed radio
-- [ ] mount nav lights
+- [x] mount nav lights
 - [ ] test anchor light
 
 ### Rigging
@@ -22,26 +21,42 @@ ToDo list of tasks to prepare for the 2025 D'Arcy race.
 
 ### Cat 6 Audit
 
-- [ ] first aid kit
-- [ ] bailing buckets
-- [ ] complete fire and safety
-- [ ] book audit with assessor
-- [ ] do MOB drill
+- [x] first aid kit
+- [x] bailing buckets
+- [x] complete fire and safety
+- [x] book audit with assessor
+- [x] do MOB drill
 
 ### Provisioning
 
-- [ ] Sailing snacks
-- [ ] drinking water
-- [ ] Beer
+- [x] Sailing snacks
+- [x] drinking water
+- [x] Beer
 - [ ] coffee
 - [ ] jetboil
-- [ ] 
 
 ### Other
 
 - [ ] deep clean
 - [ ] modify cover for shade (Andrew)
-- [ ] practice anchoring
-- [ ] practice picking up a mooring
-- [ ] practice dropping mast
-- [ ] 
+- [x] practice anchoring
+- [x] practice picking up a mooring
+- [x] practice dropping mast
+
+## Priorities for next time
+
+### Easy
+
+- mast tie rope down attached to fork
+- elastic / cork sail ties
+- thicker mooring rope
+- tidy organised boat
+- extra / obsolete deck hardware removed
+
+### Harder
+
+- 24v electrical system and more powerful engine
+- lee cloths
+- painted cabin
+- bigger winch cam cleats
+
