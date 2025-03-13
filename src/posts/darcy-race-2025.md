@@ -52,11 +52,17 @@ ToDo list of tasks to prepare for the 2025 D'Arcy race.
 - thicker mooring rope
 - tidy organised boat
 - extra / obsolete deck hardware removed
+- open screw holes sealed
 
 ### Harder
 
 - 24v electrical system and more powerful engine
+- working motor mount
 - lee cloths
 - painted cabin
+- painted deck
 - bigger winch cam cleats
+- new standing rigging
+- all leaks repaired
+- all deck hardware reseated and sealed
 
