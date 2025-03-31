@@ -10,10 +10,11 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] install scuppers for cockpit drains
 - [x] put fuse inline with motor extension lead
 - [ ] new halyards and spares
-- [ ] sort out 8mm reefing arrangement
+- [x] sort out 8mm reefing arrangement
 - [ ] new life jackets
-- [ ] navigation lights
-- [ ] fixed radio and antenna
+- [x] navigation lights
+- [x] fixed radio and antenna
+- [ ] neaten wiring runs
 
 ## Structure (A)
 
@@ -34,8 +35,9 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] Move spinnaker pole deck eyes aft
 - [ ] install larger above waterline scupper for anchor well drain
 - [ ] replace standing rigging
+- [ ] epoxy and redrill all through hulls
 - [ ] move main halyard clutch to mast and mount rope toggle for slack
-- [ ] sort out new 5hp equivalent motor
+- [x] sort out new larger motor
 - ~~[ ] install 24v batteries and system~~
 - [x] new 12v system ~~and DC - DC converter~~
 
@@ -57,7 +59,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] attach saddles for boom tent
 - [ ] Replace rub rail
 - [ ] mount rope tidy buttons
-- [ ] new fixed radio
+- [x] new fixed radio
 - [x] mount phone / ipad in cockpit
 - [ ] Huntingford Helm Impeder
 - [ ] waterproof anderson plug in cockpit
@@ -100,13 +102,13 @@ Turning the list from the last post into a plan. First divide into the categorie
 
 - [ ] paint topsides
 - [ ] paint antifoul
+- [ ] Get tiller cover made
 - [ ] Repair fiberglass blisters
 
 ### Less urgent (2)
 
 - [ ] print new name, rego, logo, and club id
 - [ ] paint deck
-- [ ] Get tiller cover made
 - [x] sand and oil tiller
 - [ ] v berth mattress
 - [ ] paint cabin
@@ -117,6 +119,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] cockpit seat cushions
 - [ ] Re-do cupboard doors and latches
 - [ ] Paint locker hatches
+- [ ] Paint lockers
 - [ ] Make galley covers (Ikea chopping boards)
 - [ ] Soft furnishings
 
