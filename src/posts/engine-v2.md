@@ -1,8 +1,6 @@
 ---
 title: Motor upgrades
 ---
-##
-
 
 ## The Current Engine
 
