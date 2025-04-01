@@ -34,13 +34,13 @@ The maximum thrust a 12v system allows is something like a [70lb brushless motor
 * 2 x waterproof boot (already acquired)
 * Blue Sea 7188 120A 285 Series Circuit Breaker - Surface Mount ($82)
 
-### + Extra battery (+ $300)
+### + Extra battery ($1755 + $300 = $2055)
 
 * existing charger
 * Kings 12V 138Ah Deep Cycle Battery ($248)
 * wire and terminals ($50)
 
-### + Upgraded batteries (+ $708)
+### + Upgraded batteries ($1755 + $708 = $2463)
 
 * 2 x Kings 12V 100Ah Deep Cycle Lithium LiFePO4 Battery ($578)
 * Victron SmartSolar MPPT 75/15 ($80)

@@ -22,5 +22,5 @@ npm run build
 # commit changes
 git commit -am "Add new pages"
 # publish
-git commit push
+git push
 ```
