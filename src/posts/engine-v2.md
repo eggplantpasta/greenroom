@@ -14,15 +14,19 @@ From cheapest on up.
 
 ### Larger 12v Motor Only ($755)
 
-The maximum thrust a 12v system allows is something like a [70lb brushless motor](https://www.watersnake.com.au/collections/watersnake-electric-motors/products/watersnake-advance-brushless-transom-mount-motors). This ~30% increase is not great enough to overcome the present limitations and so a move to 24v is needed.
+The maximum thrust a 12v system allows is something like a [70lb brushless motor](https://www.watersnake.com.au/collections/watersnake-electric-motors/products/watersnake-advance-brushless-transom-mount-motors). This ~30% increase is ~~not great enough to overcome the present limitations and so a move to 24v is needed~~.
+
+Turns out after buying and doing a river trial run I'm using 20% more electricity but getting at least 50% more power and water speed. I got 3.6 knots one way and 2.5 knots the other way. Theoretical hull speed is 6 knots but practically it's about 5 knots - so it still can't get me up to hull speed but I feel confident going under the bridges now. It'll be tested out this Saturday for the Garden island run.
+
+The option of dual motors (below) using my previous 54lb motor still exists and I'll try that route next if I feel I still need more power.
 
 ### Dual motors ($829)
 
-* another 12 v 54lb Watersnake ($289 Anaconda)
+* ~~another 12 v 54lb Watersnake ($289 Anaconda)~~
 * extra cable and plugs ($~$150)
-* extra combined motor power switch ($70)
-* extra circuit breaker ($120)
-* extra motor mount and bolts ($200)
+* ~~extra combined motor power switch ($70)~~
+* extra circuit breaker ($70)
+* modified motor mount and bolts ($50)
 
 ### Larger 24v 5hp equivalent motor ($1755)
 
