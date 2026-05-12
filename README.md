@@ -18,7 +18,7 @@ The site is built using [11ty](https://www.11ty.dev/) and published as a static 
 
 Content is either HTML (with [default Liquid templating](https://www.11ty.dev/docs/languages/liquid/)) or Markdown.
 
-The site source files are in the `/src` directory and `.eleventy.js` is configured to generate the static site into `/docs`. Unlike a normal setup we don't `.gitignore` the generated site directory, so when we push changes, the source, as well as the generated site, are both sent to GitHub.
+For local development use the following workflow.
 
 ```sh
 # make changes to site in /src ...
@@ -26,11 +26,13 @@ The site source files are in the `/src` directory and `.eleventy.js` is configur
 npm run serve
 ```
 
-open the [local site](http://localhost:8080/greenroom/) to view. This will refresh live as you make changes.
+Open the [local site](http://localhost:8080/greenroom/) to view. This will refresh live as you make changes.
 
 ## Deployment
 
 The repository 'settings / pages' is configured to publish the GitHub Pages site from the 'main' branch from the `/docs` folder.
+
+The site source files are in the `/src` directory and `.eleventy.js` is configured to generate the static site into `/docs`. Unlike a normal setup we don't `.gitignore` the generated site directory, so when we push changes, the source, as well as the generated site, are both sent to GitHub.
 
 The publishing workflow is as follows.
 
