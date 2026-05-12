@@ -3,13 +3,32 @@
 
 ![QR Code Greenroom Pages](src/assets/images/qr_greenroom_pages.png?raw=true "Greenroom Pages")
 
-# Development
+## Prerequisites
 
-The site is built using [11ty](https://www.11ty.dev/) and published with GitHub pages.
+* Install [NVM](https://github.com/nvm-sh/nvm) using the curl method from here.
+* Using NVM install the latest LTS release of [Node.js](https://nodejs.org/en/about/previous-releases) e.g.:
+
+```sh
+nvm install lts/krypton
+```
+
+## Development
+
+The site is built using [11ty](https://www.11ty.dev/) and published as a static site with GitHub pages.
 
 Content is either HTML (with [default Liquid templating](https://www.11ty.dev/docs/languages/liquid/)) or Markdown.
 
 The site source files are in the `/src` directory and `.eleventy.js` is configured to generate the static site into `/docs`. Unlike a normal setup we don't `.gitignore` the generated site directory, so when we push changes, the source, as well as the generated site, are both sent to GitHub.
+
+```sh
+# make changes to site in /src ...
+# generate static site from /src to /docs and serve locally
+npm run serve
+```
+
+open the [local site](http://localhost:8080/greenroom/) to view. This will refresh live as you make changes.
+
+## Deployment
 
 The repository 'settings / pages' is configured to publish the GitHub Pages site from the 'main' branch from the `/docs` folder.
 
