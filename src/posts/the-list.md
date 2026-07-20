@@ -1,86 +1,109 @@
 ---
-title: The Dream (the list)
+title: The Dream and The List
 ---
 
 Chapter 2 of _[This Old Boat](https://www.amazon.com.au/This-Old-Boat-Don-Casey/dp/0071579931)_ by [Don Casey](https://www.amazon.com.au/stores/Don-Casey/author/B001IGOSIK) _The Dream_ talks about defining why you have the boat. What's your dream day on the water like? Then it directs you to write down a list of everything needed to be done to the boat to achieve this dream.
 
 ## The dream
 
-A pretty boat, easy to sail, comfortable for day cruises and overnight getaways on the river, and capable of going for three or four nights as far as Busselton or Rottnest.
+A pretty boat, easy to sail, comfortable for day cruises and overnight getaways on the river, and capable of going for three or four nights as far as Rottnest (12 nm) or Busselton (120 nm).
 
 ## The list of everything
 
-- Remove unused deck hardware
-- Move spinnaker pole ends aft
-- Straighten spinnaker deck ring
-- fix spinnaker poles
-- seal holes in deck with epoxy
-- measure, buy, and fit new main and jib sheets (12mm dia.)
-- use single strand jib sheet and special shackle
-- put poly pipe around baby and side stays
-- remove lifeline bases
-- attach saddles for boom tent
-- get andrew to make new #3 jib
-- get Andrew to help rationalise old sails and dispose of unusable ones after salvaging hardware
-- put fuse inline with motor extension lead
-- paint deck
-- paint topsides
-- paint antifoul
-- rust proof, epoxy, and fair keel
-- print new name, rego, logo, and club id
-- print crew shirts
-- remove and fiberglass through hulls
-- replace standing rigging
-- install scuppers for cockpit drains
-- install larger above waterline scupper for anchor well drain
-- fix / replace hatch hinge
-- make stainless steel arch for stern
-- new halyards and spares
-- remove old mast fittings
-- make anchor light rechargeable
-- remove old mast and boom fittings
-- move main halyard clutch to mast and mount rope toggle for slack
-- sort out 8mm reefing arrangement
-- sort out main foot tension arrangement
-- sort out new 5hp equivalent motor
-- install 24v batteries and system
-- new 12v system and DC - DC converter
-- new battery monitor
-- new lithium batteries
-- new life jackets
-- navigation lights
-- cockpit lights
-- cabin lights
-- new fixed radio
-- mount phone / ipad in cockpit
-- cabin iPad (tv) and speaker mount
-- new cabin floor and pva grip
-- cabin step
-- sliding porta potti
-- glue-glass windows
-- paint cabin
-- remove / replace compass
-- cockpit seat cushions
-- engine mount in cabin
-- new engine mount to raise and lower
-- v berth bed support planks
-- mast step mounted table
-- Re-do cupboard doors and latches
-- new sail hatch management
-- gimbal for jet boil
-- gas lift struts for pop top
-- new pop top supports
-- mount rope tidy buttons
-- cockpit shower and privacy
-- v berth mattress
-- Remove, repair and repaint rudder
-- Replace rub rail
-- Soft furnishings
-- Make galley covers (Ikea chopping boards)
-- Get tiller cover made
-- sand and oil tiller
-- remove and fair and paint rudder
-- Re-do cabin drop boards
-- Paint locker hatches
-- Repair fiberglass blisters
-- Remove front bulkhead (?)
+Based on the method in the book but simplifying it (because I'm not good at detailed planning) break it into safety, structure, feature, and finish. Tasks should ideally be completed in that order - but sometimes you might need to do something out of order because it's more fun or you have all the bits or it fits into the time available.
+
+This list will grow and change as i do and redo things.
+
+Turning the list from the last post into a plan. First divide into the categories; structure (A), feature (B), finish (C). Divide those into categories of urgency; immediate (1), less urgent (2), someday (3). Out of these extract safety (S1).
+
+## Safety
+
+- [ ] remove and fiberglass through hulls
+- [ ] install scuppers for cockpit drains
+- [x] put fuse inline with motor extension lead
+- [x] new halyards and spares
+- [x] sort out 8mm reefing arrangement
+- [x] new life jackets
+- [x] navigation lights
+- [x] fixed radio and antenna
+- [ ] neaten wiring runs
+
+## Structure
+
+- [ ] seal holes in deck with epoxy
+- [x] measure, buy, and fit new main and jib sheets (12mm dia.)
+- [x] make single strand jib sheet with special shackle
+- [x] put poly pipe around baby stays
+- [ ] put poly pipe around side stays
+- [ ] remove old mast and boom fittings
+- [ ] remove and fair and paint rudder
+- [ ] Straighten spinnaker deck eye
+- [ ] fix spinnaker poles
+- [ ] Move spinnaker pole deck eyes aft
+- [ ] install larger above waterline scupper for anchor well drain
+- [ ] replace standing rigging
+- [ ] epoxy and redrill all through hulls
+- [ ] move main halyard clutch to mast and mount rope toggle for slack
+- [x] sort out new larger motor
+- ~~[ ] install 24v batteries and system~~
+- [x] new 12v system ~~and DC - DC converter~~
+- [ ] fix / replace hatch hinge
+- [ ] rust proof, epoxy, and fair keel
+- [ ] glue-glass windows
+- [ ] Re-do cabin drop boards (double as cockpit table)
+- [ ] sort out main foot tension arrangement
+- [ ] sort out new 5hp equivalent motor
+
+## Feature
+- [ ] Remove unused deck hardware
+- [ ] remove lifeline bases
+- [ ] attach saddles for boom tent
+- [ ] Replace rub rail
+- [x] mount rope tidy buttons
+- [x] mount phone / ipad in cockpit
+- [ ] Huntingford Helm Impeder
+- [ ] waterproof anderson plug in cockpit
+- [x] get Andrew to help rationalise old sails and dispose of unusable ones after salvaging hardware
+- [ ] make anchor light rechargeable
+- [ ] cockpit lights
+- [ ] cabin lights
+- [x] new lithium batteries
+- [ ] new cabin floor and pva grip
+- [ ] v berth bed support planks
+- [ ] gimbal for jet boil
+- [x] new engine mount to raise and lower
+- [ ] engine mount in cabin
+- [ ] remove / replace compass
+- [ ] cabin step
+- [x] new battery monitor
+- [ ] waterproof cockpit locker
+- [x] get Andrew to make new #3 and #2 jib
+- [x] make stainless steel arch for stern
+- [ ] sliding porta potti
+- [ ] new sail hatch management
+- ~~[ ] mast step mounted table~~
+- [ ] gas lift struts for pop top
+- [ ] new pop top supports
+- [ ] Remove front bulkhead
+- [ ] remove front shelves
+- [ ] cockpit shower and privacy
+- [ ] cabin iPad (tv) and speaker mount
+
+
+## Finish
+- [ ] paint topsides
+- [ ] paint antifoul
+- [x] Get tiller cover made
+- [ ] Repair fiberglass blisters
+- [ ] print new name, rego, logo, and club id
+- [ ] paint deck
+- [x] sand and oil tiller
+- [ ] v berth mattress
+- [ ] paint cabin
+- [ ] print crew shirts
+- [ ] cockpit seat cushions
+- [ ] Re-do cupboard doors and latches
+- [ ] Paint locker hatches
+- [ ] Paint lockers
+- [ ] Make galley covers (Ikea chopping boards)
+- [ ] Soft furnishings
