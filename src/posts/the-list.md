@@ -1,5 +1,8 @@
 ---
 title: The Dream and The List
+description: The ever morphing list of boat projects.
+date: Last Modified
+tags: boat work
 ---
 
 Chapter 2 of _[This Old Boat](https://www.amazon.com.au/This-Old-Boat-Don-Casey/dp/0071579931)_ by [Don Casey](https://www.amazon.com.au/stores/Don-Casey/author/B001IGOSIK) _The Dream_ talks about defining why you have the boat. What's your dream day on the water like? Then it directs you to write down a list of everything needed to be done to the boat to achieve this dream.
