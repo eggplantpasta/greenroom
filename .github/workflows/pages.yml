@@ -39,6 +39,18 @@ jobs:
           node --version
           npm --version
 
+      - name: Inspect npm project
+        working-directory: .build
+        run: |
+          pwd
+          ls -la
+          echo "--- package.json ---"
+          cat package.json
+          echo "--- lock root package ---"
+          node -e "const p=require('./package-lock.json'); console.log(p.packages[''])"
+          echo "--- symlinks ---"
+          ls -la .cli
+
       - name: Install dependencies
         working-directory: .build
         run: npm ci
