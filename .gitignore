@@ -1,5 +1,1 @@
-# dependencies
-node_modules
-
-# we don't ignore the build directory as that is published to github pages
-# /docs
+.DS_Store

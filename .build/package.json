@@ -1,0 +1,49 @@
+{
+  "private": true,
+  "name": "@buildawesome.one/starter",
+  "version": "1.5.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "precli": "[ -t 1 ] && clear || true",
+    "cli": "BA_OPTIONS='--input ../ --config greenroom.config.js' npm -C .cli/ run",
+    "start": "npm run cli -- start",
+    "stage": "npm run cli -- stage",
+    "build": "npm run cli -- build"
+  },
+  "dependencies": {
+    "@awesome.me/buildawesome": "^4.0.0-0",
+    "@buildawesome.one/config": "^1.5.0",
+    "markdown-it-task-checkbox": "^1.0.6"
+  },
+  "devDependencies": {
+    "prettier-plugin-jinja-template": "^2.1.0",
+    "serve": "^14.2.5"
+  },
+  "--- SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
+  "site": {
+    "author": {
+      "name": "Anton Staroverov"
+    },
+    "base": "https://starter.buildawesome.one/",
+    "favicon": "https://blades.ninja/favicon.ico",
+    "footer": "Powered by <b class='dark-auto'><object data='https://buildawesome.one/gh.svg'></object> × <object data='https://blades.ninja/gh.svg'></object></b>",
+    "generator": "Build Awesome One Starter (https://starter.buildawesome.one/)",
+    "language": "en",
+    "subtitle": "",
+    "styles": [
+      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/blades.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/ninja.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
+      "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-okaidia.min.css",
+      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"
+    ],
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-core.min.js",
+      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js",
+      "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js"
+    ],
+    "title": "11ty / Build Awesome One Starter"
+  },
+  "---": "---"
+}
