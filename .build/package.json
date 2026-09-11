@@ -26,7 +26,7 @@
       "name": "Brett Roper"
     },
     "base": "https://greenroom.pudiga.org/",
-    "favicon": "/favicon.ico",
+    "favicon": "/media/favicon.png",
     "footer": "Greenroom — Space Sailer 22",
     "generator": "[Eleventy](https://www.11ty.dev/)",
     "language": "en",

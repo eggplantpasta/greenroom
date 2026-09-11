@@ -1,3 +1,7 @@
+    :root {
+      --brand-color: #1f4e79;
+    }
+    
     object {
       vertical-align: middle;
     }
@@ -17,9 +21,9 @@
 
     .brand-logo {
       display: block;
-      width: 4.5rem;
+      width: 3rem;
       aspect-ratio: 1;
-      background-color: #1f4e79;
+      background-color: var(--brand-color);
 
       -webkit-mask: url('/media/simple-gr22-small-black.png') center / contain no-repeat;
       mask: url('/media/simple-gr22-small-black.png') center / contain no-repeat;
@@ -33,6 +37,7 @@
 
     .brand-name strong {
       font-size: 1.3rem;
+      color: var(--brand-color);
     }
 
     .brand-name small {
@@ -45,4 +50,8 @@
     }
     body > main {
         padding-top: 1.5rem;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--brand-color);
     }
