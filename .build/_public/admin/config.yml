@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: YOUR_USER/REPO # @TODO: replace with your own repo!
+  repo: eggplantpasta/greenroom
   branch: main
 
 # Global configuration
