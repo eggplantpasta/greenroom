@@ -1,0 +1,48 @@
+    object {
+      vertical-align: middle;
+    }
+
+    body > footer {
+      text-align: center;
+      padding-bottom: 3rem;
+      font-size: medium;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      text-decoration: none;
+    }
+
+    .brand-logo {
+      display: block;
+      width: 4.5rem;
+      aspect-ratio: 1;
+      background-color: #1f4e79;
+
+      -webkit-mask: url('/media/simple-gr22-small-black.png') center / contain no-repeat;
+      mask: url('/media/simple-gr22-small-black.png') center / contain no-repeat;
+    }
+
+    .brand-name {
+      display: flex;
+      flex-direction: column;
+      line-height: 1.05;
+    }
+
+    .brand-name strong {
+      font-size: 1.3rem;
+    }
+
+    .brand-name small {
+      margin-top: 0.15rem;
+      opacity: 0.8;
+    }
+
+    body > nav.container {
+        padding-block: 0;
+    }
+    body > main {
+        padding-top: 1.5rem;
+    }

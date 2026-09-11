@@ -8,18 +8,25 @@
   <meta name="generator" content="{{ site.generator }}">
   <meta property="og:title" content="{{ title | d(site.title) | striptags }}">
   <meta name="twitter:card" content="summary_large_image">
-  <style>
-    object { vertical-align: middle } /*TODO: move to blades.css */
-    body > footer { text-align: center; padding-bottom: 3rem; font-size: medium }
-  </style>
+  <link rel="stylesheet" href="/greenroom.css">
   {{ content_for_header | safe }}
 {% endset %}
 
 {% block body %}
-  <nav class="container">
-    <ul><li><a href="/"><i class='fa-brands fa-square-build-awesome-stroke fa-lg'></i> <b>Logo</b></a></li></ul>
-    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-  </nav>
+<nav class="container">
+  <a href="/" class="brand">
+    <span class="brand-logo" aria-hidden="true"></span>
+    <span class="brand-name">
+      <strong>Greenroom</strong>
+      <small>Space Sailer 22</small>
+    </span>
+  </a>
+
+  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+</nav>
+
+  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+</nav>
   <main class="container breakout-all">
     {% if title %}<h1>{{ title }}</h1>{% endif %}
     {% if description %}<p><big>{{ description }}</big></p>{% endif %}

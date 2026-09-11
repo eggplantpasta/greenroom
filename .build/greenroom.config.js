@@ -7,4 +7,7 @@ export default async function ($config) {
   $config.amendLibrary("md", (mdLib) => {
     mdLib.use(markdownItTaskCheckbox);
   });
+  $config.addPassthroughCopy({
+    ".build/_public/greenroom.css": "greenroom.css",
+  });
 }

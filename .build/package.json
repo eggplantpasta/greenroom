@@ -23,14 +23,14 @@
   "--- SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
   "site": {
     "author": {
-      "name": "Anton Staroverov"
+      "name": "Brett Roper"
     },
     "base": "https://greenroom.pudiga.org/",
-    "favicon": "https://blades.ninja/favicon.ico",
-    "footer": "Powered by <b class='dark-auto'><object data='https://buildawesome.one/gh.svg'></object> × <object data='https://blades.ninja/gh.svg'></object></b>",
-    "generator": "Build Awesome One Starter (https://starter.buildawesome.one/)",
+    "favicon": "/favicon.ico",
+    "footer": "Greenroom — Space Sailer 22",
+    "generator": "[Eleventy](https://www.11ty.dev/)",
     "language": "en",
-    "subtitle": "",
+    "subtitle": "A 1976 Space Sailer 22",
     "styles": [
       "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/blades.css?min=0",
       "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/ninja.css?min=0",
@@ -43,7 +43,7 @@
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/autoloader/prism-autoloader.min.js",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.js"
     ],
-    "title": "11ty / Build Awesome One Starter"
+    "title": "Greenroom"
   },
   "---": "---"
 }
