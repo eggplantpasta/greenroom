@@ -55,3 +55,17 @@
     h1, h2, h3, h4, h5, h6 {
       color: var(--brand-color);
     }
+
+    .mobile-nav {
+      display: none;
+    }
+
+    @media (max-width: 600px) {
+      .desktop-nav {
+        display: none;
+      }
+
+      .mobile-nav {
+        display: block;
+      }
+    }

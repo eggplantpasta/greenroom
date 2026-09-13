@@ -13,17 +13,23 @@
 {% endset %}
 
 {% block body %}
-<nav class="container">
-  <a href="/" class="brand">
-    <span class="brand-logo" aria-hidden="true"></span>
-    <span class="brand-name">
-      <strong>Greenroom</strong>
-      <small>Space Sailer 22</small>
-    </span>
-  </a>
+  <nav class="container">
+    <a href="/" class="brand">
+      <span class="brand-logo" aria-hidden="true"></span>
+      <span class="brand-name">
+        <strong>Greenroom</strong>
+        <small>Space Sailer 22</small>
+      </span>
+    </a>
 
-  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-</nav>
+    <div class="desktop-nav">
+      {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+    </div>
+    <details class="mobile-nav">
+      <summary aria-label="Menu">☰</summary>
+      {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+    </details>
+  </nav>
 
   <main class="container breakout-all">
     {% if title %}<h1>{{ title }}</h1>{% endif %}
