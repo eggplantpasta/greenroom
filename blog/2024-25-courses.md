@@ -1,5 +1,11 @@
 ---
 title: 2024 - 25 EFYC Keelboat Division 4 Courses
+description:
+date: 2025-01-01
+tags:
+  - race
+image:
+draft: false
 ---
 
 ## Club Start Long Courses

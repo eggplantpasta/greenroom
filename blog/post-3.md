@@ -1,5 +1,11 @@
 ---
 title: ToDo (the original list)
+description:
+date: 2025-01-01
+tags:
+  - race
+image:
+draft: false
 ---
 
 This is the original list of tasks I was working off to get the boat ready for club racing and the annual [Rottnest Race (D'Arcy)](https://efyc.com.au/event/darcy-race/). It worked for getting the boat to a minimal standard to use for those things but it's not enough to act as a project plan to complete all the things I want to do to it.

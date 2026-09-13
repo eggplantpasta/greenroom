@@ -3,12 +3,23 @@ title: Greenroom Log
 permalink: /
 ---
 
-{% for page in collections.all %}
+{% for page in collections.all | reverse %}
   {% if page.url.startsWith('/blog/') and page.url != '/blog/' %}
     <article>
+      {% if page.data.image %}
+        <a href="{{ page.url }}">
+          <img
+            src="{{ page.data.image }}"
+            alt=""
+            loading="lazy"
+          >
+        </a>
+      {% endif %}
+
       <h2>
         <a href="{{ page.url }}">{{ page.data.title }}</a>
       </h2>
+
       {% if page.data.description %}
         <p>{{ page.data.description }}</p>
       {% endif %}

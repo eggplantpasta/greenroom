@@ -1,5 +1,11 @@
 ---
 title: Radio
+description:
+date: 2025-01-01
+tags:
+  - race
+image:
+draft: false
 ---
 
 ## Frequencies

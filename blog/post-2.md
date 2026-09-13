@@ -1,9 +1,12 @@
 ---
 title: A new electrical system
 description: Design of a new 12v electrical system with upgraded components and better monitoring. 
-tags: 
+date: 2025-01-01
+tags:
+  - race
+image:
+draft: false
 ---
-
 I'm currently redoing my electrical system after my initial design failed due to some parts not up to spec. This time I'm going to over-engineer things and build for future expansion.
 
 ## Existing components

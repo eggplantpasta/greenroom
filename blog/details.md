@@ -1,5 +1,11 @@
 ---
 title: Greenroom Details
+description:
+date: 2025-01-01
+tags:
+  - info
+image:
+draft: false
 ---
 
 ## Class details
