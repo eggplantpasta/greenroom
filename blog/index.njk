@@ -6,23 +6,29 @@ permalink: /
 {% for page in collections.all | reverse %}
   {% if page.url.startsWith('/blog/') and page.url != '/blog/' %}
     <article>
-      {% if page.data.image %}
-        <a href="{{ page.url }}">
-          <img
-            src="{{ page.data.image }}"
-            alt=""
-            loading="lazy"
-          >
-        </a>
-      {% endif %}
+      <div class="grid">
+        {% if page.data.image %}
+          <div>
+            <a href="{{ page.url }}">
+              <img
+                src="{{ page.data.image | replace('.webp', '-thumb.webp') }}"
+                alt=""
+                loading="lazy"
+              >
+            </a>
+          </div>
+        {% endif %}
 
-      <h2>
-        <a href="{{ page.url }}">{{ page.data.title }}</a>
-      </h2>
+        <div>
+          <h2>
+            <a href="{{ page.url }}">{{ page.data.title }}</a>
+          </h2>
 
-      {% if page.data.description %}
-        <p>{{ page.data.description }}</p>
-      {% endif %}
+          {% if page.data.description %}
+            <p>{{ page.data.description }}</p>
+          {% endif %}
+        </div>
+      </div>
     </article>
   {% endif %}
 {% endfor %}

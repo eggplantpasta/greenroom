@@ -1,13 +1,13 @@
 ---
 title: D'Arcy Race 2025
-description: To-do list of tasks to prepare for the 2025 D'Arcy Race.
+description: ToDo list of tasks to prepare for the 2025 D'Arcy Race.
 date: 2025-01-01
 tags:
   - race
   - rottnest
   - boatwork
   - cruising
-image: /media/darcy-race-2025.webp
+image: https://images.pudiga.org/greenroom/2025-darcy-quokka.webp
 draft: false
 ---
 
