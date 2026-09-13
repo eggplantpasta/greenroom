@@ -1,13 +1,15 @@
 ---
-title: The History of Greenroom
-description: Discovering the history of Greenroom.
-date: 2026-09-13
+title: Template
+description: Short description.
+date: Created
 tags:
   - stories
-  - boat work
+  - boat-work
   - info
-image: https://images.pudiga.org/greenroom/history-swan.webp
-draft: true
+image: https://images.pudiga.org/greenroom/2025-darcy-quokka.webp
+
+# Keep this template out of story listings REMOVE TO PUBLISH
+eleventyExcludeFromCollections: true
 ---
 
 This is a template to copy and use for a new page.

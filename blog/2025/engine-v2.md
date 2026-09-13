@@ -3,7 +3,7 @@ title: Motor upgrades
 description:
 date: 2025-01-01
 tags:
-  - boatwork
+  - boat-work
 image:
 draft: false
 ---

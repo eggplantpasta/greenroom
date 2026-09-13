@@ -3,7 +3,7 @@ title: Radio
 description:
 date: 2025-01-01
 tags:
-  - race
+  - info
 image:
 draft: false
 ---

@@ -3,7 +3,7 @@ title: The Dream and The List
 description: The ever morphing list of boat projects.
 date: Last Modified
 tags:
-  - boatwork
+  - boat-work
 image:
 draft: false
 ---

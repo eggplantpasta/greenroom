@@ -1,0 +1,11 @@
+---
+title: Boat Work
+permalink: /boat-work/
+eleventyNavigation:
+  key: Boat Work
+  order: 2
+---
+
+{% for page in collections["boat-work"] | reverse %}
+  {% include "post-summary.njk" %}
+{% endfor %}

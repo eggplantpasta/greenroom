@@ -4,6 +4,7 @@ description: Design of a new 12v electrical system with upgraded components and 
 date: 2025-01-01
 tags:
   - race
+  - boat-work
 image:
 draft: false
 ---

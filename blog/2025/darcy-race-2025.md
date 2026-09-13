@@ -5,7 +5,7 @@ date: 2025-01-01
 tags:
   - race
   - rottnest
-  - boatwork
+  - boat-work
   - cruising
 image: https://images.pudiga.org/greenroom/2025-darcy-quokka.webp
 draft: false

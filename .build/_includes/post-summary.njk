@@ -1,0 +1,25 @@
+    <article>
+      <div class="grid">
+        {% if page.data.image %}
+          <div>
+            <a href="{{ page.url }}">
+              <img
+                src="{{ page.data.image | replace('.webp', '-thumb.webp') }}"
+                alt=""
+                loading="lazy"
+              >
+            </a>
+          </div>
+        {% endif %}
+
+        <div>
+          <h2>
+            <a href="{{ page.url }}">{{ page.data.title }}</a>
+          </h2>
+
+          {% if page.data.description %}
+            <p>{{ page.data.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </article>

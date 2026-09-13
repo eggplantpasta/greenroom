@@ -1,0 +1,11 @@
+---
+title: Greenroom Info
+permalink: /info/
+eleventyNavigation:
+  key: Info
+  order: 3
+---
+
+{% for page in collections.info | reverse %}
+  {% include "post-summary.njk" %}
+{% endfor %}

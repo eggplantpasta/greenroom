@@ -1,34 +1,11 @@
 ---
-title: Greenroom Log
+title: Greenroom Stories
 permalink: /
+eleventyNavigation:
+  key: Stories
+  order: 1
 ---
 
-{% for page in collections.all | reverse %}
-  {% if page.url.startsWith('/blog/') and page.url != '/blog/' %}
-    <article>
-      <div class="grid">
-        {% if page.data.image %}
-          <div>
-            <a href="{{ page.url }}">
-              <img
-                src="{{ page.data.image | replace('.webp', '-thumb.webp') }}"
-                alt=""
-                loading="lazy"
-              >
-            </a>
-          </div>
-        {% endif %}
-
-        <div>
-          <h2>
-            <a href="{{ page.url }}">{{ page.data.title }}</a>
-          </h2>
-
-          {% if page.data.description %}
-            <p>{{ page.data.description }}</p>
-          {% endif %}
-        </div>
-      </div>
-    </article>
-  {% endif %}
+{% for page in collections.stories | reverse %}
+  {% include "post-summary.njk" %}
 {% endfor %}
