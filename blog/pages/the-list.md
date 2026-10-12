@@ -43,6 +43,8 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] Straighten spinnaker deck eye
 - [ ] fix spinnaker poles
 - [ ] Move spinnaker pole deck eyes aft
+- [ ] Align mast support under mast step
+- [ ] Fabricate and install mast lowering shroud extenders
 - [ ] install larger above waterline scupper for anchor well drain
 - [ ] replace standing rigging
 - [ ] epoxy and redrill all through hulls
@@ -52,9 +54,12 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] rust proof, epoxy, and fair keel
 - [ ] glue-glass windows
 - [ ] Re-do cabin drop boards (double as cockpit table?)
-- [ ] sort out main foot tension arrangement
 - [ ] ~~sort out new 5hp equivalent motor~~
 - [ ] new cabin floor and pva grip
+- [ ] cabin step
+- [ ] fabricate and install rear swim ladder
+- [ ] remove side ladder mounts
+- [x] sort out main foot tension arrangement
 - [x] new 12v system ~~and DC - DC converter~~
 - [x] [sort out new larger motor](/blog/2025/engine-v2/)
 - [x] measure, buy, and fit new main and jib sheets (12mm dia.)
@@ -75,17 +80,16 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] gimbal for jet boil
 - [ ] engine mount in cabin
 - [ ] remove / replace compass
-- [ ] cabin step
 - [ ] waterproof cockpit locker
 - [ ] sliding porta potti
 - [ ] new sail hatch management
 - [ ] ~~mast step mounted table~~
 - [ ] gas lift struts for pop top
 - [ ] new pop top supports
-- [ ] Remove front bulkhead
-- [ ] remove front shelves
 - [ ] cockpit shower and privacy
 - [ ] cabin iPad (tv) and speaker mount
+- [x] Remove front bulkhead
+- [x] remove front shelves
 - [x] mount rope tidy buttons
 - [x] mount phone / ipad in cockpit
 - [x] get Andrew to help rationalise old sails and dispose of unusable ones after salvaging hardware
