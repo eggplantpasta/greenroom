@@ -26,20 +26,17 @@ Turning the list from the last post into a plan. First divide into the categorie
 
 - [ ] remove and fiberglass through hulls
 - [ ] install scuppers for cockpit drains
+- [ ] neaten wiring runs
 - [x] put fuse inline with motor extension lead
 - [x] new halyards and spares
 - [x] sort out 8mm reefing arrangement
 - [x] new life jackets
 - [x] navigation lights
 - [x] fixed radio and antenna
-- [ ] neaten wiring runs
 
 ## Structure
 
 - [ ] seal holes in deck with epoxy
-- [x] measure, buy, and fit new main and jib sheets (12mm dia.)
-- [x] make single strand jib sheet with special shackle
-- [x] put poly pipe around baby stays
 - [ ] put poly pipe around side stays
 - [ ] remove old mast and boom fittings
 - [ ] remove and fair and paint rudder
@@ -50,60 +47,60 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] replace standing rigging
 - [ ] epoxy and redrill all through hulls
 - [ ] move main halyard clutch to mast and mount rope toggle for slack
-- [x] sort out new larger motor
-- ~~[ ] install 24v batteries and system~~
-- [x] new 12v system ~~and DC - DC converter~~
+- [ ] ~~install 24v batteries and system~~
 - [ ] fix / replace hatch hinge
 - [ ] rust proof, epoxy, and fair keel
 - [ ] glue-glass windows
-- [ ] Re-do cabin drop boards (double as cockpit table)
+- [ ] Re-do cabin drop boards (double as cockpit table?)
 - [ ] sort out main foot tension arrangement
-- [ ] sort out new 5hp equivalent motor
+- [ ] ~~sort out new 5hp equivalent motor~~
+- [ ] new cabin floor and pva grip
+- [x] new 12v system ~~and DC - DC converter~~
+- [x] [sort out new larger motor](/blog/2025/engine-v2/)
+- [x] measure, buy, and fit new main and jib sheets (12mm dia.)
+- [x] make single strand jib sheet with special shackle
+- [x] put poly pipe around baby stays
 
 ## Feature
 - [ ] Remove unused deck hardware
 - [ ] remove lifeline bases
 - [ ] attach saddles for boom tent
 - [ ] Replace rub rail
-- [x] mount rope tidy buttons
-- [x] mount phone / ipad in cockpit
 - [ ] Huntingford Helm Impeder
 - [ ] waterproof anderson plug in cockpit
-- [x] get Andrew to help rationalise old sails and dispose of unusable ones after salvaging hardware
 - [ ] make anchor light rechargeable
 - [ ] cockpit lights
 - [ ] cabin lights
-- [x] new lithium batteries
-- [ ] new cabin floor and pva grip
 - [ ] v berth bed support planks
 - [ ] gimbal for jet boil
-- [x] new engine mount to raise and lower
 - [ ] engine mount in cabin
 - [ ] remove / replace compass
 - [ ] cabin step
-- [x] new battery monitor
 - [ ] waterproof cockpit locker
-- [x] get Andrew to make new #3 and #2 jib
-- [x] make stainless steel arch for stern
 - [ ] sliding porta potti
 - [ ] new sail hatch management
-- ~~[ ] mast step mounted table~~
+- [ ] ~~mast step mounted table~~
 - [ ] gas lift struts for pop top
 - [ ] new pop top supports
 - [ ] Remove front bulkhead
 - [ ] remove front shelves
 - [ ] cockpit shower and privacy
 - [ ] cabin iPad (tv) and speaker mount
-
+- [x] mount rope tidy buttons
+- [x] mount phone / ipad in cockpit
+- [x] get Andrew to help rationalise old sails and dispose of unusable ones after salvaging hardware
+- [x] new lithium batteries
+- [x] new engine mount to raise and lower
+- [x] new battery monitor
+- [x] get Andrew to make new #3 and #2 jib
+- [x] make stainless steel arch for stern
 
 ## Finish
 - [ ] paint topsides
 - [ ] paint antifoul
-- [x] Get tiller cover made
 - [ ] Repair fiberglass blisters
 - [ ] print new name, rego, logo, and club id
 - [ ] paint deck
-- [x] sand and oil tiller
 - [ ] v berth mattress
 - [ ] paint cabin
 - [ ] print crew shirts
@@ -113,3 +110,5 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] Paint lockers
 - [ ] Make galley covers (Ikea chopping boards)
 - [ ] Soft furnishings
+- [x] Get tiller cover made
+- [x] sand and oil tiller
