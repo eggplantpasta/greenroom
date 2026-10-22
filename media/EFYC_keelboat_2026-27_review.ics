@@ -1,0 +1,739 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Greenroom//EFYC Keelboat Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:EFYC Keelboat 2026-27 (Review)
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VEVENT
+UID:c377f651-01e1-56b4-941c-6bd8e3e7985e@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Consistency Race 1 – S80 Metro Series Race 1
+DTSTART;TZID=Australia/Perth:20260927T140000
+DTEND;TZID=Australia/Perth:20260927T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:6cfd0f63-b5fa-51b2-a845-feb71342ceed@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20260930T181500
+DTEND;TZID=Australia/Perth:20260930T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:3259e9a4-ad86-507f-af04-72822e6a4c47@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Commodore's Cup Race 1
+DTSTART;TZID=Australia/Perth:20261004T140000
+DTEND;TZID=Australia/Perth:20261004T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:f5d7ceba-b7d0-5363-8ec9-7a2b66c6f7d2@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261007T181500
+DTEND;TZID=Australia/Perth:20261007T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:5704645b-9664-5842-b246-bf4810f0f94b@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Pursuit Race 1
+DTSTART;TZID=Australia/Perth:20261011T140000
+DTEND;TZID=Australia/Perth:20261011T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:ef55dd26-1665-56ff-a3a0-651cc6aedb3b@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261014T181500
+DTEND;TZID=Australia/Perth:20261014T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:1bfb4b3d-5346-5fc0-8649-8ccaf3d03111@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Short Course Races 1 & 2
+DTSTART;TZID=Australia/Perth:20261018T140000
+DTEND;TZID=Australia/Perth:20261018T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:3cf1d807-f9e9-53fe-8f5f-3a0c5b0023b8@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261021T181500
+DTEND;TZID=Australia/Perth:20261021T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:927852da-ffee-5685-8b07-d207dbfc6d1e@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Commodore's Cup Race 2
+DTSTART;TZID=Australia/Perth:20261025T140000
+DTEND;TZID=Australia/Perth:20261025T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:462ba122-d723-5828-a6f9-9640a2b8805d@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261028T181500
+DTEND;TZID=Australia/Perth:20261028T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:31137f5e-7ee9-5bdb-9ddc-b7c9395cfc41@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Pursuit Race 2
+DTSTART;TZID=Australia/Perth:20261101T140000
+DTEND;TZID=Australia/Perth:20261101T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:ddba007e-dd9a-587e-ad72-b041a403c858@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261104T181500
+DTEND;TZID=Australia/Perth:20261104T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:1425ecf0-6c23-5e7d-b459-9893aa1d1332@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Night Race 1
+DTSTART;TZID=Australia/Perth:20261106T181500
+DTEND;TZID=Australia/Perth:20261106T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:bc51bcd2-3d62-53a6-b971-6ae270efbbaa@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Short Course Races 3 & 4
+DTSTART;TZID=Australia/Perth:20261108T140000
+DTEND;TZID=Australia/Perth:20261108T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ba9a9e-e669-56c0-b2ad-95207924a30f@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261111T181500
+DTEND;TZID=Australia/Perth:20261111T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:26f067dc-7fda-5073-8304-a6e82bcdb181@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Commodore's Cup Race 3
+DTSTART;TZID=Australia/Perth:20261115T140000
+DTEND;TZID=Australia/Perth:20261115T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:26812b15-bc85-5c98-8670-f2467bd2b92d@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise & Night Race 2
+DTSTART;TZID=Australia/Perth:20261118T181500
+DTEND;TZID=Australia/Perth:20261118T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:675aa57f-e903-5d12-901c-8aaef532e7f1@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Inshore Series Race 1 – FSC to TCYC Feeder
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:e6966539-f303-5130-a173-87a5c990d0dd@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Inshore Series Race 2 – Catalpa Classic
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:e18f74c3-59a2-5b6a-abed-3466bf7d4d42@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Consistency Race
+DTSTART;TZID=Australia/Perth:20261122T140000
+DTEND;TZID=Australia/Perth:20261122T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c97395-b334-5818-a5bc-c07f57c799fb@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261125T181500
+DTEND;TZID=Australia/Perth:20261125T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:3a178faf-b943-5849-8fb9-692edf18feb1@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Pursuit Race 3
+DTSTART;TZID=Australia/Perth:20261129T140000
+DTEND;TZID=Australia/Perth:20261129T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:b17a236b-c953-5275-92b9-6d0555c0c48e@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261202T181500
+DTEND;TZID=Australia/Perth:20261202T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:feebaa37-744e-50cf-80dd-398e0d538da1@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Night Race 3
+DTSTART;TZID=Australia/Perth:20261204T181500
+DTEND;TZID=Australia/Perth:20261204T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:65ca894d-65cc-5436-930e-a3835dc6302d@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Commodore's Cup Race 4
+DTSTART;TZID=Australia/Perth:20261206T140000
+DTEND;TZID=Australia/Perth:20261206T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:5ef14d23-4234-51eb-a0b1-2c9a0af1ce73@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261209T181500
+DTEND;TZID=Australia/Perth:20261209T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:f3790bab-b83e-5181-8977-d49dff8796fc@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Short Course Races 5 & 6
+DTSTART;TZID=Australia/Perth:20261213T140000
+DTEND;TZID=Australia/Perth:20261213T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:4be94c98-c7b5-55e4-afc3-54b0453069fe@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Christmas Twilight Cruise
+DTSTART;TZID=Australia/Perth:20261216T181500
+DTEND;TZID=Australia/Perth:20261216T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:0346d176-7c33-5b77-aef7-93d59ffc9c41@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Night Race 4
+DTSTART;TZID=Australia/Perth:20261218T181500
+DTEND;TZID=Australia/Perth:20261218T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:ec09065d-a0b0-5e95-95df-47d3efe7cef5@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Pursuit Race 4
+DTSTART;TZID=Australia/Perth:20261220T140000
+DTEND;TZID=Australia/Perth:20261220T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:6be642cc-3e0a-5749-863a-f9676cbf6d4d@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Inshore Series Race 3 – TCYC CSR Feeder FSC to Rocking
+ ham
+DTSTART;TZID=Australia/Perth:20261226T105500
+DTEND;TZID=Australia/Perth:20261226T125500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:eb661c11-24bb-55eb-808c-5313f7d5edf5@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Consistency Race
+DTSTART;TZID=Australia/Perth:20270110T140000
+DTEND;TZID=Australia/Perth:20270110T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:e23cc893-e809-5ddd-8565-5f8d60da59ff@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270113T181500
+DTEND;TZID=Australia/Perth:20270113T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:3e83ea05-b84a-5538-bc7e-9b08eb4be67d@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Short Course Races 7 & 8
+DTSTART;TZID=Australia/Perth:20270117T140000
+DTEND;TZID=Australia/Perth:20270117T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:4bc89444-dc6d-565a-862b-b74fbc1ac7d9@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270120T181500
+DTEND;TZID=Australia/Perth:20270120T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:f55fe355-be40-5452-aa24-e98b808dd341@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Night Race 5
+DTSTART;TZID=Australia/Perth:20270122T181500
+DTEND;TZID=Australia/Perth:20270122T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:7feb31f5-44cc-552e-b7bf-9ab3d481e800@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Pursuit Race 5
+DTSTART;TZID=Australia/Perth:20270124T140000
+DTEND;TZID=Australia/Perth:20270124T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6e4495-fd2b-5420-923d-8fee9aec50fe@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270127T181500
+DTEND;TZID=Australia/Perth:20270127T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:57736e8d-589c-5178-af17-47823d15278a@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Inshore Series Race 4 – HYC Pot of Gold Race
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2e9426-07df-5311-b677-b3284c51b3c7@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Inshore Series Race 5 – HYC Return Race
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e00e4e-f5bd-5906-a5df-af69f5cfeb41@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Consistency Race
+DTSTART;TZID=Australia/Perth:20270131T140000
+DTEND;TZID=Australia/Perth:20270131T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:455b075e-1b44-5822-9a28-f946abf601b8@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270203T181500
+DTEND;TZID=Australia/Perth:20270203T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8ec943-3abc-5dee-bda1-4065524f00af@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Geographe Bay Race Week
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270213
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:3790720c-da2a-52b8-8212-e14fb6182496@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Pursuit Race 6
+DTSTART;TZID=Australia/Perth:20270207T140000
+DTEND;TZID=Australia/Perth:20270207T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:bf34cae7-5043-52d9-9986-846df46ee637@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270210T181500
+DTEND;TZID=Australia/Perth:20270210T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:e83fcccc-56a0-50a7-97c0-ec75134d92b4@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Consistency Race – SS22 & SS27 invitation\, Melville W
+ ater start
+DTSTART;TZID=Australia/Perth:20270214T140000
+DTEND;TZID=Australia/Perth:20270214T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:baa9d976-9f55-54f7-88ab-8bc9e6131f45@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270217T181500
+DTEND;TZID=Australia/Perth:20270217T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8ba03d-3f36-5c58-b1bb-ded8f9723864@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Night Race 6
+DTSTART;TZID=Australia/Perth:20270219T181500
+DTEND;TZID=Australia/Perth:20270219T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:8205b6ca-e8da-5f7b-bc30-19cf34ab62a2@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – No keelboat sailing – SailGP
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:a83c1f54-f934-5e25-9c00-85313cce392c@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270224T181500
+DTEND;TZID=Australia/Perth:20270224T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4d29be-8bf1-5c01-ac81-6b130388730d@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Consistency Race
+DTSTART;TZID=Australia/Perth:20270228T140000
+DTEND;TZID=Australia/Perth:20270228T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fb1b9e-1139-5f18-9c97-3ddc664d0561@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270303T181500
+DTEND;TZID=Australia/Perth:20270303T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:b7de4bba-7a0c-5b65-b113-4fba2687be7a@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Consistency Race
+DTSTART;TZID=Australia/Perth:20270307T140000
+DTEND;TZID=Australia/Perth:20270307T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:6caccfcf-c814-5dbc-a3e9-837a366c40cf@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – PFSYC Pickford Memorial Marathon Regatta
+DTSTART;TZID=Australia/Perth:20270307T100000
+DTEND;TZID=Australia/Perth:20270307T120000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:99fd6e0d-ae41-5ba5-a6f6-d95c66c6333b@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270310T181500
+DTEND;TZID=Australia/Perth:20270310T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:d1bacfc0-417b-59d5-ad3e-0dba6dfd8cfd@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – D'Arcy Race / Billy Run
+DTSTART;TZID=Australia/Perth:20270313T110000
+DTEND;TZID=Australia/Perth:20270313T130000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:6793c96a-be6d-5682-969b-339ebc204c3c@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270317T181500
+DTEND;TZID=Australia/Perth:20270317T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:7de2cc36-dc2d-53a1-88ca-39cac4fbaf9f@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – CYC & EFYC Commodore's Cup Race 5
+DTSTART;TZID=Australia/Perth:20270321T140000
+DTEND;TZID=Australia/Perth:20270321T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:a2899bc8-0c94-5428-bf09-115a8ac9c906@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270324T181500
+DTEND;TZID=Australia/Perth:20270324T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:583dba45-8ec4-5424-b900-1c339947e63e@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270331T181500
+DTEND;TZID=Australia/Perth:20270331T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:95594f98-2fdc-5a6e-bc6f-c9b1d64c8a7a@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Sail Our Way – Women's Keelboat Regatta
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:deb0a7b4-a885-5188-be85-d1c3d8183058@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Last Twilight Cruise
+DTSTART;TZID=Australia/Perth:20270407T181500
+DTEND;TZID=Australia/Perth:20270407T201500
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:710fa6b2-f9f2-5ec8-9bc7-9b53c12ede27@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Commodore's Cup Race 6
+DTSTART;TZID=Australia/Perth:20270411T140000
+DTEND;TZID=Australia/Perth:20270411T160000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:466aa5d0-9ad8-5f0e-9cf1-3a2f4624eb46@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Short Course Races 9 & 10
+DTSTART;TZID=Australia/Perth:20270417T130000
+DTEND;TZID=Australia/Perth:20270417T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:e9fb5d4b-72c9-5f60-81fc-45f755aac38b@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – ANZAC Shield Regatta
+DTSTART;TZID=Australia/Perth:20270425T130000
+DTEND;TZID=Australia/Perth:20270425T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:da02ca8f-6f72-55b6-b40c-815b34a661ce@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 1
+DTSTART;TZID=Australia/Perth:20270523T130000
+DTEND;TZID=Australia/Perth:20270523T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:f4f602e7-a57e-517c-a656-ee16c7bbe13a@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 2
+DTSTART;TZID=Australia/Perth:20270606T130000
+DTEND;TZID=Australia/Perth:20270606T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:4617af11-4545-5cd2-80f2-c7459a4499da@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 3
+DTSTART;TZID=Australia/Perth:20270620T130000
+DTEND;TZID=Australia/Perth:20270620T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:bfcb0089-07a8-5c00-b463-0148a5b760a5@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 4
+DTSTART;TZID=Australia/Perth:20270704T130000
+DTEND;TZID=Australia/Perth:20270704T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:203b8438-3429-5b8f-9f85-7ec52ebebe87@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 5
+DTSTART;TZID=Australia/Perth:20270718T130000
+DTEND;TZID=Australia/Perth:20270718T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:c38b3d9d-3805-55c7-878a-1e70ad868b48@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 6
+DTSTART;TZID=Australia/Perth:20270801T130000
+DTEND;TZID=Australia/Perth:20270801T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:11692ca5-414e-5081-80a3-fc53a149d5c4@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 7
+DTSTART;TZID=Australia/Perth:20270815T130000
+DTEND;TZID=Australia/Perth:20270815T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+BEGIN:VEVENT
+UID:50724f4d-f9c1-53f5-80bf-3dee548026f5@greenroom.local
+DTSTAMP:20261022T231335Z
+SUMMARY:EFYC – Keelboat Winter Race 8
+DTSTART;TZID=Australia/Perth:20270829T130000
+DTEND;TZID=Australia/Perth:20270829T150000
+DESCRIPTION:Source: EFYC 2026–27 season programme. Timed events have a 
+ provisional 2-hour duration\; verify details with club. Times not publish
+ ed are all-day placeholders. #racing
+END:VEVENT
+END:VCALENDAR
