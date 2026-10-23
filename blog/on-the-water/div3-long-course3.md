@@ -1,7 +1,7 @@
 ---
 title: Long Course 3
 description: Division 3 – Keelboat club start course 3 – distance 7.1 nm
-permalink: /on-the-water/long-course-3.html
+permalink: /on-water/long-course-3.html
 tags: 
   - racing
   - courses
