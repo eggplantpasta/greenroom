@@ -26,7 +26,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 
 - [ ] remove and fiberglass through hulls
 - [ ] install scuppers for cockpit drains
-- [ ] neaten wiring runs
+- [ ] neaten wiring runs (poly pipe?)
 - [x] put fuse inline with motor extension lead
 - [x] new halyards and spares
 - [x] sort out 8mm reefing arrangement
@@ -45,9 +45,9 @@ Turning the list from the last post into a plan. First divide into the categorie
 - [ ] Move spinnaker pole deck eyes aft
 - [ ] Align mast support under mast step
 - [ ] Fabricate and install mast lowering shroud extenders
-- [ ] install larger above waterline scupper for anchor well drain
 - [ ] replace standing rigging
-- [ ] epoxy and redrill all through hulls
+- [ ] install larger above waterline scupper for anchor well drain
+- [ ] epoxy, redrill, and reseal all through deck and cabin holes
 - [ ] move main halyard clutch to mast and mount rope toggle for slack
 - [ ] ~~install 24v batteries and system~~
 - [ ] fix / replace hatch hinge
@@ -69,7 +69,7 @@ Turning the list from the last post into a plan. First divide into the categorie
 ## Feature
 - [ ] Remove unused deck hardware
 - [ ] remove lifeline bases
-- [ ] attach saddles for boom tent
+- [ ] ~~attach saddles for boom tent~~
 - [ ] Replace rub rail
 - [ ] Huntingford Helm Impeder
 - [ ] waterproof anderson plug in cockpit

@@ -6,6 +6,14 @@ tags:
   - stories
   - boat-work
   - info
+
+  - racing
+  - sailing
+
+  - safety
+  - structure
+  - feature
+  - finish
 image: https://images.pudiga.org/greenroom/2025-darcy-quokka.webp
 
 # Keep this template out of story listings REMOVE TO PUBLISH
