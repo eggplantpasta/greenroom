@@ -1,0 +1,24 @@
+---
+title: On the Water
+permalink: /on-the-water/
+eleventyNavigation:
+  key: On the Water
+  order: 4
+---
+
+<p>Racing, cruising and boat projects.</p>
+
+{% for event in greenroomCalendar %}
+  <article>
+    <h3>{{ event.summary }}</h3>
+    <p>
+      <small>
+        {{ event.start.toLocaleDateString("en-AU") }}
+      </small>
+    </p>
+
+    {% if event.location %}
+      <p>{{ event.location }}</p>
+    {% endif %}
+  </article>
+{% endfor %}
