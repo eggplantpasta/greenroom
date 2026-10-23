@@ -1,24 +1,39 @@
+
 ---
 title: On the Water
+description: Racing, cruising and boat projects
 permalink: /on-the-water/
 eleventyNavigation:
   key: On the Water
   order: 4
 ---
 
-<p>Racing, cruising and boat projects.</p>
+{% set currentMonth = "" %}
 
 {% for event in greenroomCalendar %}
-  <article>
-    <h3>{{ event.summary }}</h3>
-    <p>
-      <small>
-        {{ event.start.toLocaleDateString("en-AU") }}
-      </small>
-    </p>
 
-    {% if event.location %}
-      <p>{{ event.location }}</p>
-    {% endif %}
+  {% if event.monthHeading != currentMonth %}
+    <h2>{{ event.monthHeading }}</h2>
+    {% set currentMonth = event.monthHeading %}
+  {% endif %}
+
+  <article class="calendar-event">
+    <div class="calendar-date">
+      <strong>{{ event.day }}</strong>
+      <small>{{ event.weekday }}</small>
+    </div>
+
+    <div class="calendar-details">
+      <h3>{{ event.summary }}</h3>
+
+      {% if event.time %}
+        <small>{{ event.time }}</small>
+      {% endif %}
+
+      {% if event.location %}
+        <p><small>{{ event.location }}</small></p>
+      {% endif %}
+    </div>
   </article>
+
 {% endfor %}

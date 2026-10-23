@@ -69,3 +69,36 @@
         display: block;
       }
     }
+
+    .calendar-event {
+  display: grid;
+  grid-template-columns: 4rem 1fr;
+  gap: 1rem;
+  align-items: start;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--pico-muted-border-color, #ddd);
+}
+
+.calendar-date {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.calendar-date strong {
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+.calendar-date small {
+  color: var(--pico-muted-color, #777);
+}
+
+.calendar-details h3 {
+  font-size: 1rem;
+  margin: 0 0 0.25rem;
+}
+
+.calendar-details p {
+  margin: 0.25rem 0 0;
+}
