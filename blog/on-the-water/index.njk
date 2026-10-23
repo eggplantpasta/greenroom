@@ -7,32 +7,16 @@ eleventyNavigation:
   order: 4
 ---
 
-{% set currentMonth = "" %}
+<article>
+  <h2>Calendar</h2>
+  <a href="/on-the-water/calendar-2026-27.html">Calendar 2026-27</a>
+</article>
 
-{% for event in greenroomCalendar %}
-
-  {% if event.monthHeading != currentMonth %}
-    <h2>{{ event.monthHeading }}</h2>
-    {% set currentMonth = event.monthHeading %}
-  {% endif %}
-
-  <article class="calendar-event">
-    <div class="calendar-date">
-      <strong>{{ event.day }}</strong>
-      <small>{{ event.weekday }}</small>
-    </div>
-
-    <div class="calendar-details">
-      <h3>{{ event.summary }}</h3>
-
-      {% if event.time %}
-        <small>{{ event.time }}</small>
-      {% endif %}
-
-      {% if event.location %}
-        <p><small>{{ event.location }}</small></p>
-      {% endif %}
-    </div>
-  </article>
-
+<article>
+<h2>Div 3 Courses</h2>
+<ul>
+{% for page in collections.courses %}
+  <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
 {% endfor %}
+</ul>
+</article>
