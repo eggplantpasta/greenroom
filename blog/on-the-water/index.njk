@@ -16,7 +16,7 @@ eleventyNavigation:
 <article>
 <h2>Div 3 Courses</h2>
 <ul>
-{% for page in collections.courses %}
+{% for page in collections.courses | sort(attribute='data.title') %}
   <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
 {% endfor %}
 </ul>
