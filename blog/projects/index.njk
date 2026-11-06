@@ -1,0 +1,11 @@
+---
+title: projects
+permalink: /projects/
+eleventyNavigation:
+  key: projects
+  order: 2
+---
+
+{% for page in collections["projects"] | reverse %}
+  {% include "post-summary.njk" %}
+{% endfor %}

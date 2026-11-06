@@ -3,7 +3,7 @@ title: A New Anchor
 description: Looking at options to modernise my 50 year old anchor.
 date: Created
 tags:
-  - boat-work
+  - projects
   - planning
 image: https://images.pudiga.org/greenroom/2025-darcy-quokka.webp
 

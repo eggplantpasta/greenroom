@@ -3,7 +3,7 @@ title: Restoring a second hand sail
 description:
 date: 2025-01-01
 tags:
-  - boat-work
+  - projects
 image:
 draft: false
 ---

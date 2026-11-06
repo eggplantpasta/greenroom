@@ -4,7 +4,7 @@ description: Short description.
 date: Created
 tags:
   - stories
-  - boat-work
+  - projects
   - info
 
   - racing
