@@ -1,0 +1,11 @@
+---
+title: Greenroom Stories
+permalink: /stories/
+eleventyNavigation:
+  key: stories
+  order: 1
+---
+
+{% for page in collections.stories | reverse %}
+  {% include "post-summary.njk" %}
+{% endfor %}
