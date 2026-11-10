@@ -13,7 +13,7 @@ Greenroom is booked onto the hardstand from **Friday 11 December to Wednesday 23
 
 This page is the working plan and progress tracker. I'll update the checklists, decisions, products and daily notes as the job progresses.
 
-**Boat:** Greenroom — 1976 Space Sailer 22  
+**Boat:** Greenroom - 1976 Space Sailer 22  
 **Haul-out:** Friday 11 December 2026  
 **Fixed relaunch deadline:** Wednesday 23 December 2026  
 **Status:** Planning  
@@ -27,13 +27,13 @@ This page is the working plan and progress tracker. I'll update the checklists, 
 
 | Level | Requirement | December rule |
 | --- | --- | --- |
-| **P1 — Seaworthy** | Sound laminate and properly sealed old holes; no unsafe open penetrations; safe drains; no serious keel defects; adequate cure before immersion | Mandatory. Protect time for this before any other job. |
-| **P2 — Protected** | All newly exposed *underwater* laminate sealed using an immersion-suitable system; bare keel substrate protected as required | Mandatory wherever work exposes material that cannot safely remain immersed; can avoid opening sound existing coating. |
-| **P3 — Finish** | Smooth fairing, full cosmetic topsides finish, complete antifoul renewal and optional coating upgrades | Defer to January as needed. Fresh antifoul is not automatically essential for a short interval if existing protection remains adequate and any new coating is suitable for immersion. |
+| **P1 - Seaworthy** | Sound laminate and properly sealed old holes; no unsafe open penetrations; safe drains; no serious keel defects; adequate cure before immersion | Mandatory. Protect time for this before any other job. |
+| **P2 - Protected** | All newly exposed *underwater* laminate sealed using an immersion-suitable system; bare keel substrate protected as required | Mandatory wherever work exposes material that cannot safely remain immersed; can avoid opening sound existing coating. |
+| **P3 - Finish** | Smooth fairing, full cosmetic topsides finish, complete antifoul renewal and optional coating upgrades | Defer to January as needed. Fresh antifoul is not automatically essential for a short interval if existing protection remains adequate and any new coating is suitable for immersion. |
 
 **Important:** Don't partially strip the underwater hull unless there is enough time to restore the necessary immersion-resistant coating protection. A full epoxy *barrier* programme may not be safely splittable across two haul-outs without manufacturer guidance. If work slips, leave sound original underwater coatings intact wherever possible.
 
-### Decision gates — when to start, stop or defer
+### Decision gates - when to start, stop or defer
 
 | Latest checkpoint | Decision | If not on track |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ This page is the working plan and progress tracker. I'll update the checklists, 
 - [ ] Install **one new 25 mm anchor-well drain outlet** above the upright waterline.
 - [ ] Test all new drains and inspect every repair before relaunch.
 
-### If time permits — otherwise January
+### If time permits - otherwise January
 
 - [ ] Improve fairing beyond what is needed for a sound coating.
 - [ ] Tidy cosmetic details around the waterline and bootstripe.
@@ -107,7 +107,7 @@ The current Greenroom palette is:
 | --- | --- |
 | Topsides | AS2700 **G32 Opaline** |
 | Underwater hull / antifouling | AS2700 **B64 Charcoal** (or closest suitable antifoul colour) |
-| Deck / cabin | AS2700 **N14 White** — not part of this haul-out |
+| Deck / cabin | AS2700 **N14 White** - not part of this haul-out |
 
 Confirm that the chosen marine paints can be supplied or tinted appropriately. An AS2700 colour name isn't itself a paint specification, and antifouling colour availability can be limited.
 
@@ -134,13 +134,14 @@ These affect materials, sequencing or safety. Record the final answers here as t
 
 **Go/no-go before drilling new holes:** confirm an appropriate, safe and permitted drain design for the heeled waterline and the cockpit's required drainage rate. Don't decide to omit seacocks solely because they would usually remain open.
 
-## Preparation checklist — before 11 December
+## Preparation checklist - before 11 December
 
 ### Yard and logistics
 
-- [ ] Confirm lift time on Friday 11 December and relaunch time on Wednesday 23 December.
+- [x] Confirm lift time on Friday 11 December. **- 11:00 am**
+- [ ] Confirm relaunch time on Wednesday 23 December.
 - [ ] Confirm whether the boat is accessible over both weekends and on evenings.
-- [ ] Ask if the yard will pressure wash or if I need to do it.
+- [x] Ask if the yard will pressure wash or if I need to do it. **- included in fee**
 - [ ] Check access to 240 V power, water, toilets, lighting and secure tool storage.
 - [ ] Confirm approved sanding/dust extraction, tarpaulins and waste collection procedures.
 - [ ] Confirm rules for antifouling, solvent use, spray prohibition and weather protection.
@@ -255,7 +256,7 @@ Apply the chosen antifouling at the specified coverage, thickness and number of 
 
 Inspect all repair sites, coatings, edges and fittings. Photograph below-waterline repairs before launch. Verify drain operation and any valves or emergency plugs. Check all supports/pad areas are coated, confirm the antifoul and topsides have reached their required launch/handling state, and check after launching for any ingress or abnormal trim.
 
-## Hardstand schedule — deadline-driven working plan
+## Hardstand schedule - deadline-driven working plan
 
 This is deliberately front-loaded with structural work. The later coating dates are **provisional** until the actual paint products and their overcoat windows are known. Tasks may overlap, but wet structural work and uncontrolled sanding dust need to be separated from finish painting.
 
@@ -300,7 +301,7 @@ Use this list for anything deliberately deferred. Do not convert a planned Decem
 
 | Work deferred | Why | Planned follow-up | Status |
 | --- | --- | --- | --- |
-| — | — | — | — |
+| - | - | - | - |
 
 ## Daily progress log
 
@@ -309,7 +310,7 @@ Use this list for anything deliberately deferred. Do not convert a planned Decem
 - **10 November:** Hardstand booked for 11–23 December. Scope and preparation plan drafted.
 - **10 November:** Confirmed hardstand departure on 23 December is fixed. Painting and other non-essential work may be deferred to an early-January haul-out.
 
-### Friday 11 December — lift and inspection
+### Friday 11 December - lift and inspection
 
 **Weather / conditions:**  
 **Work completed:**  
@@ -317,7 +318,7 @@ Use this list for anything deliberately deferred. Do not convert a planned Decem
 **Issues / decisions:**  
 **Next steps:**
 
-### Saturday 12 December — removals and grinding
+### Saturday 12 December - removals and grinding
 
 **Weather / conditions:**  
 **Work completed:**  
@@ -325,7 +326,7 @@ Use this list for anything deliberately deferred. Do not convert a planned Decem
 **Issues / decisions:**  
 **Next steps:**
 
-### Sunday 13 December — laminate repairs and scope decision
+### Sunday 13 December - laminate repairs and scope decision
 
 **Weather / conditions:**  
 **Work completed:**  
@@ -381,14 +382,14 @@ Use this list for anything deliberately deferred. Do not convert a planned Decem
 **Coatings / times / temperatures:**  
 **Next steps:**
 
-### Tuesday 22 December — final inspection
+### Tuesday 22 December - final inspection
 
 **Work completed:**  
 **Tests and results:**  
 **Outstanding:**  
 **Launch ready?**
 
-### Wednesday 23 December — relaunch
+### Wednesday 23 December - relaunch
 
 **Launch time:**  
 **Leak and drain checks:**  
@@ -399,21 +400,22 @@ Use this list for anything deliberately deferred. Do not convert a planned Decem
 
 Fill in brands, quantities and prices as products are chosen. Don't order paint quantities until coverage and coat count are known.
 
-| Item | Product / specification | Quantity | Cost | Purchased? |
+| Purchased? | Item | Product / specification | Quantity | Cost |
 | --- | --- | --- | --- | --- |
-| Epoxy laminating resin/hardener | TBD | TBD | — | [ ] |
-| Fibreglass cloth and tape | TBD | TBD | — | [ ] |
-| Structural and fairing fillers | TBD | TBD | — | [ ] |
-| Underwater epoxy primer/barrier | TBD | TBD | — | [ ] |
-| Keel primer / treatment | TBD | TBD | — | [ ] |
-| Antifouling | TBD | TBD | — | [ ] |
-| Topsides primer / undercoat | TBD | TBD | — | [ ] |
-| Topsides finish — G32 Opaline | TBD | TBD | — | [ ] |
-| TruDesign 25 mm drain fittings | Exact models TBD | 3 | — | [ ] |
-| Valves/adaptors, if required | TBD | TBD | — | [ ] |
-| Drain hoses, clips and sealant | TBD | TBD | — | [ ] |
-| Abrasives, rollers and consumables | TBD | TBD | — | [ ] |
-| Hardstand / lift / other yard charges | Booked; cost TBD | — | — | [ ] |
+| | Epoxy laminating resin/hardener | TBD | TBD | - |
+| | Fibreglass cloth and tape | TBD | TBD | - |
+| | Structural and fairing fillers | TBD | TBD | - |
+| | Underwater epoxy primer/barrier | TBD | TBD | - |
+| | Keel primer / treatment | TBD | TBD | - |
+| | Antifouling | TBD | TBD | - |
+| | Topsides primer / undercoat | TBD | TBD | - |
+| | Topsides finish - G32 Opaline | TBD | TBD | - |
+| | TruDesign 25 mm drain fittings | Exact models TBD | 3 | - |
+| | Valves/adaptors, if required | TBD | TBD | - |
+| | Drain hoses, clips and sealant | TBD | TBD | - |
+| | Abrasives, rollers and consumables | TBD | TBD | - |
+| | Hardstand / lift / other yard charges | Total ($1176.08) | - | $763.05 |
+| ✓ | - | Deposit | - | $413.03 |
 
 **Estimated total:** TBD  
 **Actual total:** TBD
