@@ -19,6 +19,10 @@
     "node-ical": "^0.27.3"
   },
   "devDependencies": {
+    "@types/linkify-it": "^5.0.0",
+    "@types/markdown-it": "^14.2.0",
+    "@types/mdurl": "^2.0.0",
+    "prettier": "^3.10.0",
     "prettier-plugin-jinja-template": "^2.1.0",
     "serve": "^14.2.5"
   },
