@@ -6,7 +6,7 @@ tags:
   - projects
   - structure
   - finish
-image: https://images.pudiga.org/greenroom/2025-darcy-quokka.webp
+image: https://images.pudiga.org/greenroom/parking-space-haul-out-2026.webp
 ---
 
 Greenroom is booked onto the hardstand from **Friday 11 December to Wednesday 23 December 2026**. That's 13 calendar days to sort out some overdue hull work, remove the old corroded underwater fittings, fit new drains, and repaint the hull.
