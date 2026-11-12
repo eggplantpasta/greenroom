@@ -102,3 +102,17 @@
 .calendar-details p {
   margin: 0.25rem 0 0;
 }
+
+.task-list-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.task-list-item input[type="checkbox"] {
+  flex-shrink: 0;
+}
+
+.task-list-item label {
+  margin: 0;
+}
