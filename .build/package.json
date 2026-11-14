@@ -12,8 +12,8 @@
     "build": "npm run cli -- build"
   },
   "dependencies": {
-    "@awesome.me/buildawesome": "^4.0.0-0",
-    "@buildawesome.one/config": "^1.5.0",
+    "@awesome.me/buildawesome": "^4.0.0-alpha.10",
+    "@buildawesome.one/config": "^1.5.4",
     "markdown-it-table-checkbox": "^1.0.0",
     "markdown-it-task-checkbox": "^1.0.6",
     "node-ical": "^0.27.3"
@@ -38,8 +38,7 @@
     "language": "en",
     "subtitle": "A 1976 Space Sailer 22",
     "styles": [
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/blades.css?min=0",
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/ninja.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/blades.ninja.css?min=0",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-okaidia.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"

@@ -10,7 +10,7 @@ tags:
 image: https://images.pudiga.org/greenroom/parking-space-haul-out-2026.webp
 ---
 
-Greenroom comes out at South of Perth Yacht Club on **Friday 11 December 2026 at 11:00 am**, and must leave the hardstand on **Wednesday 23 December**. This is the preparation checklist; the actual [hardstand work plan](greenroom-haulout-work-2026.md) tracks the jobs, daily decisions and progress once the boat is out.
+Greenroom comes out at South of Perth Yacht Club on **Friday 11 December 2026 at 11:00 am**, and must leave the hardstand on **Wednesday 23 December**. This is the preparation checklist; the actual [hardstand work plan](../../greenroom-haulout-work-2026.md) tracks the jobs, daily decisions and progress once the boat is out.
 
 **Boat:** 1976 Space Sailer 22, *Greenroom*  
 **Status:** Preparing  
