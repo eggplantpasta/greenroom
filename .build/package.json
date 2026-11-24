@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@buildawesome.one/starter",
+  "name": "@sveti/one-starter",
   "version": "1.5.0",
   "license": "MIT",
   "type": "module",
@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "@awesome.me/buildawesome": "^4.0.0-alpha.10",
-    "@buildawesome.one/config": "^1.5.4",
     "@sveti/blades": "^3.1.4",
+    "@sveti/one-config": "^1.5.5",
     "markdown-it-table-checkbox": "^1.0.0",
     "markdown-it-task-checkbox": "^1.0.6",
     "node-ical": "^0.27.3"
