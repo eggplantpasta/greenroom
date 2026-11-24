@@ -1,4 +1,4 @@
-import buildAwesomeConfig from "@buildawesome.one/config";
+import buildAwesomeConfig from "@sveti/one-config";
 import markdownItTaskCheckbox from "markdown-it-task-checkbox";
 import tableCheckbox from 'markdown-it-table-checkbox';
 import loadGreenroomCalendar from "./src/calendar/greenroomCalendar.js";
